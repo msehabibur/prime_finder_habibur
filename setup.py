@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="prime_finder",  # Package name
+    name="prime_finder_habibur",  # Package name
     version="0.1.0",
-    author="Your Name",
+    author="Habibur",
     author_email="your.email@example.com",
     description="A simple Python package to check if a number is prime.",
     long_description=open("README.md").read(),
