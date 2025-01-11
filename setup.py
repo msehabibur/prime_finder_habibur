@@ -8,7 +8,7 @@ setup(
     description="A simple Python package to check if a number is prime.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/msehabibur/prime_finder",  # Replace with your GitHub repo URL
+    url="https://github.com/msehabibur/prime_finder_habibur",  # Replace with your GitHub repo URL
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
